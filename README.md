@@ -1,24 +1,18 @@
-# test-2
+# Тестовое задание для компании "Группа Управляющих компаний"
 
-## Project setup
+## Установка проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Итог
 ```
-npm run build
+Для проекта был использован фрейворк Vue.json
+Дополнительных библиотек использовано не было
+Все задачи, поставленные в задании, выполнены
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
